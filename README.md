@@ -1,4 +1,4 @@
-# Chiseled-Stone-Brick-Fix
+# Minecraft-Chiseled-Stone-Brick-Fix
 this resource pack only changes just one block
 
 works on literally anything that can run minecraft
